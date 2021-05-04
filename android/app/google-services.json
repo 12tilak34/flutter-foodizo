@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "769663185122",
+    "firebase_url": "https://letsmake-d7b67.firebaseio.com",
+    "project_id": "letsmake-d7b67",
+    "storage_bucket": "letsmake-d7b67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769663185122:android:3c95dc21c947324fc3eebb",
+        "android_client_info": {
+          "package_name": "com.tilak.foodizo.letsmake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftPdB0iK_0G3I-O7fQGyC90Yr2CeAePg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769663185122:android:0d319cc48a7b06cfc3eebb",
+        "android_client_info": {
+          "package_name": "com.tilak.main.flutterway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769663185122-q338evjkh3gpgp1d8iaell91vs2782us.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tilak.main.flutterway",
+            "certificate_hash": "1d8c79e416b486c07383fea081036bbc333a056b"
+          }
+        },
+        {
+          "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftPdB0iK_0G3I-O7fQGyC90Yr2CeAePg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769663185122:android:228f3d3dea2cb3a6c3eebb",
+        "android_client_info": {
+          "package_name": "com.vsa.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftPdB0iK_0G3I-O7fQGyC90Yr2CeAePg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769663185122:android:9001b8bd8f029821c3eebb",
+        "android_client_info": {
+          "package_name": "me.danics.firestoretest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769663185122-b9sink9h535hnesmtudc6fm4bbjtapdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.danics.firestoretest",
+            "certificate_hash": "1d8c79e416b486c07383fea081036bbc333a056b"
+          }
+        },
+        {
+          "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCftPdB0iK_0G3I-O7fQGyC90Yr2CeAePg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769663185122-08e7aiteunf1t7f9pvhnli5hkc4hviv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
